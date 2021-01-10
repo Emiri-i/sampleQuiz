@@ -1,0 +1,32 @@
+/* ページ全体 */
+html {
+    font-family: sans-serif;
+    color: #666666;
+}
+
+body {
+    margin: 0 0 0 0;
+    background-color: #96d4ec;
+    text-align: center;
+}
+
+h1 {
+    padding-top: 20px;
+}
+
+/* ボタン */
+a {
+    color: #fff;
+    background: #5876a3;
+    padding: 10px 30px;
+    display: inline-block;
+    border-radius: 5px;
+    text-decoration: none;
+    box-shadow: 0 3px 5px rgba(0, 0, 0, .3);
+}
+a:hover {
+    margin-top: 3px;
+    color: #fff;
+    background: #5876a3;
+    border-bottom: 2px solid #5876a3;
+  }
